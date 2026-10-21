@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at Galgotias University.<br>
 🤖 Passionate about Artificial Intelligence Machine Learning.<br>
-🚀 Worked on projects like MAITRI – Multimodal AI Assistant for Astronaut Well-being and Solar Flare Detection System.<br>
+🚀 Worked on projects like WeatherGPT - AI-Powered Disaster Management Assistant and Solar Flare Detection System.<br>
 💬 Ask me about AI/ML, Python and Computer Vision.<br>
 🎤 Fun fact: If I’m not coding, I’m probably singing or watching documentaries.
 
