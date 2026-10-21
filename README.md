@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at Galgotias University.<br>
+🔭 I’m currently pursuing B.Tech in Computer Science & Engineering (AI & ML) at Galgotias University (4th year 7th Semester).<br>
 🤖 Passionate about Artificial Intelligence Machine Learning.<br>
 🚀 Worked on projects like WeatherGPT - AI-Powered Disaster Management Assistant and E-commerce Sales Dashboard.<br>
 💬 Ask me about AI/ML, Python and Computer Vision.<br>
